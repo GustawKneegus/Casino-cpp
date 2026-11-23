@@ -1,0 +1,6 @@
+casino
+casino.exe
+*.o
+*.exe
+build/
+.vscode/
